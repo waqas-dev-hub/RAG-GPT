@@ -1,0 +1,13 @@
+openai==1.81.0
+langchain==0.3.25
+langchain-core==0.3.60
+langchain-community==0.3.24
+langchain-openai==0.3.17
+langchain-chroma==0.2.4
+chromadb==1.0.9
+gradio==5.30.0
+pypdf==5.5.0
+python-dotenv==1.1.0
+pyprojroot==0.3.0
+tiktoken==0.9.0
+pytest==8.3.5
