@@ -8,8 +8,7 @@ from langchain_chroma import Chroma
 from utils.load_config import LoadConfig
 
 APPCFG = LoadConfig()
-URL = "https://github.com/Farzad-R/LLM-Zero-to-Hundred/tree/master/RAG-GPT"
-hyperlink = f"[RAG-GPT user guideline]({URL})"
+
 
 CONCISE_SYSTEM_ROLE = (
     "You are a chatbot. Answer the user's question using ONLY the retrieved content. "
